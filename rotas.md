@@ -1,6 +1,6 @@
 # Rotas
 
-![image](https://github.com/user-attachments/assets/eb6dc037-5aff-495c-bcdb-cbb4d73c8fcc)
+
 
 
 ### arp 
@@ -11,3 +11,6 @@
 
 ### Roteadores
 - Trabalham na camada 3 e tomam suas decisoes baseados em IP. Uma diferença interessante é que o Switch propaga broadcast e roteadores não.
+
+### Diagrama para montar um cenario e pensar sobre rotas.
+![image](https://github.com/user-attachments/assets/eb6dc037-5aff-495c-bcdb-cbb4d73c8fcc)
